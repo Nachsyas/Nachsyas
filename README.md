@@ -11,5 +11,5 @@
 |  4 | 12-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1G1gcRE0Hl4nnQDvqdr4sgr-QgllTVVS6omQLjaqQ97w/edit?usp=sharing) | [Program](https://github.com/Nachsyas/Modul-4-Praktikum-Pemrograman-Mobile)|
 |  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer, dan Card  | [Modul 05](https://docs.google.com/document/d/115neBsLmklbbzakIyznaUryEwuG4LmsR37ZyuBweGKc/edit?usp=sharing) | [Program](https://github.com/Nachsyas/Modul-5-Prak.-Mobile-Programming)|
 |  6 | 17-09-2025  | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Modul 06](https://docs.google.com/document/d/1KoW9axeAajI4lyDafUoCPcXsjoQJy0LPA3qD0LbklUg/edit?usp=sharing) | [Program](https://github.com/Nachsyas/Modul-6-Prak.-Mobile-Programming)|
-|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07]() | [Program]()|
+|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07]() | [Program](https://github.com/Nachsyas/Modul-7-Prak.-Pemrograman-Mobile)|
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08]() | [Program]()|
