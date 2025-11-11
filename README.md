@@ -17,4 +17,4 @@
 |  9 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://docs.google.com/document/d/1XTsjgicIwAJGgoO9Iue0oGOunuIazT8ih092soNbRE8/edit?tab=t.0) | [Program](https://github.com/Nachsyas/Modul-10-Praktikum-Pemrograman-Mobile.git)|
 |  10 | 11-10-2025  | 07  | 	Manajemen State dengan GetX  | [Modul 11](https://docs.google.com/document/d/1MRSpIokRW-7aQluU6epm1AtS9QOD99M89qS51qHAVX0/edit?usp=sharing) | [Program](https://github.com/Nachsyas/Modul-11-Praktikum-Pemrograman-Mobile.git)|
 |  11 | 26-10-2025  | 08  | 	Ujian Tengah Semester  | [Laporan](https://docs.google.com/document/d/17rrowPN2K2bQvNW5hncdj12_OYcqn5mo21V0gCu_OQ0/edit?usp=sharing) | [Program](https://github.com/Nachsyas/Nachsyas-Arham-Mumtaz-Nashohi-UTS-)|
-|  12 | 05-11-2025  | 09  | 	Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program]()|
+|  12 | 05-11-2025  | 09  | 	Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://docs.google.com/document/d/14jrSsiL747erf-tTeVcBqJmAx1QSRvnlNW8pDL4066s/edit?usp=sharing) | [Program]()|
