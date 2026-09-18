@@ -34,7 +34,7 @@ Computer Science undergraduate at **UIN Maulana Malik Ibrahim Malang** focused o
 ### [EduTrace](https://github.com/Nachsyas/EduTrace)
 
 <a href="https://github.com/Nachsyas/EduTrace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachsyas&repo=EduTrace&theme=transparent&hide_border=true" width="100%" alt="EduTrace repository overview" />
+  <img src="assets/projects/edutrace.svg" width="100%" alt="EduTrace repository overview" />
 </a>
 
 Decentralized academic achievement system combining **Soulbound Tokens (ERC-5192)** with predictive academic analytics.
@@ -49,7 +49,7 @@ Decentralized academic achievement system combining **Soulbound Tokens (ERC-5192
 ### [Arham Porto](https://github.com/Nachsyas/Arham-Porto)
 
 <a href="https://arham-porto.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachsyas&repo=Arham-Porto&theme=transparent&hide_border=true" width="100%" alt="Arham Porto repository overview" />
+  <img src="assets/projects/arham-porto.svg" width="100%" alt="Arham Porto repository overview" />
 </a>
 
 Multi-page engineering portfolio with evidence-linked project exploration and **Ask Arham AI**.
@@ -67,7 +67,7 @@ Multi-page engineering portfolio with evidence-linked project exploration and **
 ### [GDGOC E-Commerce](https://github.com/Nachsyas/gdgoc-ecommerce)
 
 <a href="https://github.com/Nachsyas/gdgoc-ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachsyas&repo=gdgoc-ecommerce&theme=transparent&hide_border=true" width="100%" alt="GDGOC E-Commerce repository overview" />
+  <img src="assets/projects/gdgoc-ecommerce.svg" width="100%" alt="GDGOC E-Commerce repository overview" />
 </a>
 
 Team-built e-commerce platform with a **Go REST API**, Clean Architecture, MongoDB, and Swagger documentation.
@@ -82,7 +82,7 @@ Team-built e-commerce platform with a **Go REST API**, Clean Architecture, Mongo
 ### [Maritime AI Dashboard](https://github.com/Nachsyas/maritime-ai-dashboard)
 
 <a href="https://github.com/Nachsyas/maritime-ai-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachsyas&repo=maritime-ai-dashboard&theme=transparent&hide_border=true" width="100%" alt="Maritime AI Dashboard repository overview" />
+  <img src="assets/projects/maritime-ai.svg" width="100%" alt="Maritime AI Dashboard repository overview" />
 </a>
 
 Machine-learning-backed maritime analytics dashboard with a modern web interface and Python API layer.
@@ -99,6 +99,8 @@ Machine-learning-backed maritime analytics dashboard with a modern web interface
 
 ### Smart Kitchen
 
+<img src="assets/projects/smart-kitchen.svg" width="100%" alt="Smart Kitchen project preview" />
+
 A split frontend/backend project for an AI-assisted kitchen application, with a Go service layer and a Next.js interface.
 
 **Stack:** Go · Fiber · GORM · PostgreSQL · Next.js · Generative AI
@@ -109,7 +111,7 @@ A split frontend/backend project for an AI-assisted kitchen application, with a 
 </tr>
 </table>
 
-> Project preview cards are structured so real landing-page screenshots can be swapped in later without changing the overall README layout.
+> Project previews are stored directly in this profile repository so they render reliably on GitHub. They can be replaced later with real landing-page screenshots without changing the layout.
 
 ---
 
